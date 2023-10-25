@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+
+host: https://its.ipri.kiev.ua
